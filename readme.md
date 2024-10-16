@@ -1,6 +1,6 @@
 # FOOGD
 This repository is an official PyTorch implementation of paper:
-[FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Liao_Rethinking_the_Representation_in_Federated_Unsupervised_Learning_with_Non-IID_Data_CVPR_2024_paper.html).
+[FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection](https://arxiv.org/abs/2410.11397).
 NeurIPS 2024 (Poster).
 
 [//]: # (Thanks to [@Pengyang]&#40;https://github.com/PengyangZhou&#41; and [@Fengyuan]&#40;https://github.com/anonymifish&#41; for providing a robust and practical implementation framework.)
